@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndersonTsai1203
 - 👀 I’m interested in video games, problem solving and learning programming language 
-- 🌱 I’m currently studying Computer Engineering at UNSW Sydney
+- 🌱 Currently graduate from Computer Science at UNSW Sydney
 - 📫 How to reach me via tsai.anderson1203@gmail.com
 
 <!---
